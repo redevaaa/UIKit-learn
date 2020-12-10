@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		8419CC222581C27400AFAEA6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8419CC212581C27400AFAEA6 /* SceneDelegate.swift */; };
 		8419CC252581C29C00AFAEA6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8419CC242581C29B00AFAEA6 /* Main.storyboard */; };
 		8464A7B52580DD7000D5C482 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8464A7B42580DD7000D5C482 /* AppDelegate.swift */; };
 		8464A7B92580DD7000D5C482 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8464A7B82580DD7000D5C482 /* ViewController.swift */; };
@@ -16,7 +15,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		8419CC212581C27400AFAEA6 /* SceneDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		8419CC242581C29B00AFAEA6 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		8464A7B12580DD7000D5C482 /* UINavigationController.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UINavigationController.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8464A7B42580DD7000D5C482 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -57,7 +55,6 @@
 			isa = PBXGroup;
 			children = (
 				8464A7B42580DD7000D5C482 /* AppDelegate.swift */,
-				8419CC212581C27400AFAEA6 /* SceneDelegate.swift */,
 				8464A7B82580DD7000D5C482 /* ViewController.swift */,
 				8419CC242581C29B00AFAEA6 /* Main.storyboard */,
 				8464A7BD2580DD7100D5C482 /* Assets.xcassets */,
@@ -139,7 +136,6 @@
 			files = (
 				8464A7B92580DD7000D5C482 /* ViewController.swift in Sources */,
 				8464A7B52580DD7000D5C482 /* AppDelegate.swift in Sources */,
-				8419CC222581C27400AFAEA6 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
