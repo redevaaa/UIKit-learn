@@ -39,7 +39,7 @@ class ViewController: UIViewController {
         //有啥用
         
         label.isHighlighted = true
-        label.highlightedTextColor=UIColor.orange//高亮显示时候的文本颜色
+        label.highlightedTextColor = UIColor.orange//高亮显示时候的文本颜色
         
         label.shadowColor=UIColor.blue //ShadowColor设置阴影颜色
         label.shadowOffset = CGSize(width: -1, height: -1) // ShadowOffset设置阴影偏移量
